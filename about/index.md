@@ -3,4 +3,4 @@ layout: page
 type: about
 ---
 
-Building...
+Email: lindadou.penelope@gmail.com
