@@ -3,4 +3,4 @@ layout: page
 type: about
 ---
 
-Email: lindadou.penelope@gmail.com
+# Email:    lindadou.penelope@gmail.com
