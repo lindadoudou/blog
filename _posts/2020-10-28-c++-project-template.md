@@ -126,5 +126,5 @@ doxygen很强大，但你还得会用啊，比如说：善用doxygen对markdown�
 
 最后，江湖再见。
 
-![](/assets/images/lindadou_zhetengji_8.jpg)
+![](/blog/assets/images/lindadou_zhetengji_8.jpg)
 
